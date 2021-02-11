@@ -25,7 +25,7 @@
  *
  */
 #include "config.h"
-#include "hardware/ESP32-targz/ESP32-targz.h"
+#include "ESP32-targz.h"
 #include <HTTPClient.h>
 #include <Update.h>
 
